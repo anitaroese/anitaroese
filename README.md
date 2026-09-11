@@ -13,8 +13,7 @@ I can combine technical skills with financial domain knowledge.
 ## 📂 Projects
 
 - [Finance Tracker](https://github.com/anitaroese/finance-tracker) — 
-  Personal finance tracker built in Python with transaction history, 
-  category tracking, and CSV export. Analysis layer in progress.
+  End-to-end personal finance pipeline built in Python: CLI tracker, AI-powered Capital One CSV import (Groq API), pandas analysis, and Streamlit dashboard (in progress).
 
 ## 🎓 Education
 
